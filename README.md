@@ -1,26 +1,3 @@
-<p align="center">
-    <a href="https://www.microchip.com/">
-        <img src="https://storage.googleapis.com/avr-iot-media/microchip_round_logo.png" alt="Microchip logo" width=72 height=72 />
-    </a>
-    <a href="https://cloud.google.com/">
-        <img src="https://storage.googleapis.com/avr-iot-media/cloud-logo.png" alt="GCP Logo" width=91 height=72 />
-    </a>
-    <a href="https://www.leverege.com">
-        <img src="https://storage.googleapis.com/avr-iot-media/lvg-logo.png" alt="Leverege logo" width=72 height=72 />
-    </a>
-    <h2 align="center">AVR-IoT Quick Start</h2>
-    <p align="center">
-        A rapid deployment tool for getting your AVR-IoT data on the cloud. Powered by Leverege.
-        <br>
-        <a href="https://www.leverege.com/contact-us"><strong>Talk to an Expert »</strong></a>
-        <br>
-        <br>
-    </p>
-</p>
-
-Want to see how easy IoT can be? Check out <a href="https://www.leverege.com/blogpost/avr-iot-guide-pushing-data-to-cloud">our blog post with video walkthroughs of the Quick Start!</a> 
-
-(Links will open in this window. Shift+click, command+click, or middle mouse click to open in new window or tab.)
 
 ## Table of Contents
 1. [Set up your GCP and Firebase Projects](#set-up-your-gcp-and-firebase-projects)
@@ -173,13 +150,3 @@ git clone https://github.com/Leverege/microchip-avr-iot.git && cd microchip-avr-
 
 And that's it! If you've edited your device with the Atmel START rapid development tool, you should see live data flowing to your new Firebase app at \<your-project-id\>.firebaseapp.com/device/\<your-device-uid\>. 
 
-## Building a solution at scale? 
-<p> 
-        Want to build something bigger? We can help you scale your projects into solutions. <a href="https://www.leverege.com/form/contact-us"><strong>Talk to an IoT expert.</strong></a>
-</p>
-<p> 
-       Whether you're a Fortune 500 company or startup, transforming your current business or creating entirely new businesses, it takes a team with deep experience across verticals and use cases to turn your IoT prototype into an IoT product.
-</p>
-<p align="center"> 
-   <img src="https://storage.googleapis.com/avr-iot-media/lvg-logo-wide.png" height="25">
-    </p>
